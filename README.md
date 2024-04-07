@@ -1,7 +1,3 @@
-# Tauri + Vanilla TS
+# Tauri Proxy Example
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Typescript.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+<img width="1470" alt="tauri-proxy-example" src="https://github.com/developermindsetcom/tauri-proxy-example/assets/154647374/3fb40ce7-7fd0-43f8-a224-3b1e2e6337aa">
